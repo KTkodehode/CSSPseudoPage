@@ -95,7 +95,6 @@ body {
     opacity: 1; 
     /* position: relative; */
 
-
 }
 .infotxt {
     display: none;
@@ -118,10 +117,8 @@ text-align: center;
 .text-over-image-top{
     /* background: red; */
     position: relative;
-    top: -100px;
+    top: -120px;
     /* margin-top: -100px; */
     margin: 0 auto;
     max-width: 90%;
-
-
 }
