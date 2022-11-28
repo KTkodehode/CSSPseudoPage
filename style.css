@@ -74,10 +74,13 @@ body {
 .articles h3{
     text-align: center;
     font-size: 30px;
+    /* top: -100px; */
+    /* position: relative; */
 }
 .articles p {
     text-align: center;
     font-size: 20px;
+    /* position: relative; */
     /* top: -100px; */
 }
 .articles {
@@ -111,7 +114,6 @@ text-align: center;
 .test{
     background: red;
     position: relative;
-    top: -50px;
-
+    top: -100px;
 
 }
